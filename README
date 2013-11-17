@@ -1,0 +1,23 @@
+Project Name: Unfailable Heart
+Type: A 2D game for Windows Phone 7
+License Issue: No commercial use
+Participants:
+  Name              Duty
+
+  Jian Ru           Code structure design
+                    Logic (collision detection/response, management of sprites, etc.)
+                    Assistance in the programming of sprite controllers
+
+  Zhicheng Guo      Programming of avatar and power-up controllers
+
+  Jin Luo           Programming of monster controllers
+
+  Zhanhuang Zhong   Programming of obstacle and monster controllers
+
+  Jinlu Xiao        Game art
+
+Note:
+  1. Uploaded with the permissions of other team members;
+  2. Game art are excluded since I have not procured the permission from Jinlu Xiao;
+  3. This is a Visual Studio 2010 solution built upon XNA game engine;
+  4. Demo video: http://v.youku.com/v_show/id_XNjA1MzI3NDEy.html.
